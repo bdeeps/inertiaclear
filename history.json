@@ -1,0 +1,686 @@
+{
+  "title": "The history of inertia and mass",
+  "tagline": "From Aristotle's pushing air to a kilogram set by the Planck constant: 2,400 years of learning why things keep moving.",
+  "intro": "For two thousand years people believed that moving things need a constant push. Philoponus, Ibn Sina and Buridan chipped away at that idea, Galileo rolled balls to show that only friction stops motion, Kepler named inertia, and Newton made mass its measure. Since then the kilogram has gone from a metal cylinder to a constant of nature, astronauts have learned to weigh themselves by wobbling, and satellites have shown that inertia and gravity agree to 1 part in 10¹⁵.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "What keeps things moving?",
+      "from": -400,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "Aristotle says motion needs a mover; Philoponus, Ibn Sina and Buridan give the moving body its own impetus."
+    },
+    {
+      "id": "newlaw",
+      "name": "Inertia becomes a law",
+      "from": 1590,
+      "to": 1700,
+      "color": "#7be08c",
+      "summary": "Galileo experiments, Kepler names it, Descartes straightens it, and Newton makes mass its measure."
+    },
+    {
+      "id": "measure",
+      "name": "Measuring mass and spin",
+      "from": 1700,
+      "to": 1910,
+      "color": "#ffb547",
+      "summary": "The moment of inertia, the gyroscope, the platinum kilogram and Eötvös's torsion balance."
+    },
+    {
+      "id": "modern",
+      "name": "Relativity, space and constants",
+      "from": 1900,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Einstein builds on the equivalence of the two masses, astronauts weigh themselves by inertia, and the kilogram is set by nature."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Motion needs a mover, says Aristotle",
+      "who": "Aristotle",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "In his Physics, Aristotle taught that a moving thing keeps moving only while something pushes it. A thrown stone, he suggested, is kept going by the air rushing in behind it. Everyday life seemed to agree: carts stop when the ox stops pulling.",
+      "why": "It set the puzzle for 2,000 years: why does anything keep moving at all?",
+      "box": "limits",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 530,
+      "date": "c. 530 CE",
+      "era": "ancient",
+      "art": "quill",
+      "key": false,
+      "title": "Philoponus: the thrower gives the stone something",
+      "who": "John Philoponus",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "Philoponus attacked Aristotle's air-pushing idea. He argued that the thrower gives the stone an inner 'impressed force' that carries it on and slowly wears away, and that a stone would move even through empty space.",
+      "why": "It moved the cause of motion from the air into the moving object itself.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1020,
+      "date": "c. 1020",
+      "era": "ancient",
+      "art": "scroll",
+      "key": false,
+      "title": "Ibn Sina: in a vacuum, it would never stop",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Persia",
+      "country": "Iran",
+      "text": "In The Book of Healing, Ibn Sina described an inclination given to a projectile that is used up only by the resistance of the air. In a vacuum, he reasoned, nothing would use it up, so the motion would not stop.",
+      "why": "It was one of the first statements that only resistance makes moving things stop.",
+      "sources": [
+        2,
+        22
+      ]
+    },
+    {
+      "year": 1350,
+      "date": "c. 1350",
+      "era": "ancient",
+      "art": "quill",
+      "key": true,
+      "title": "Buridan's impetus",
+      "who": "Jean Buridan",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Buridan said a thrown body carries an 'impetus' that stays with it until air resistance and gravity destroy it. The impetus was bigger for more matter and more speed, rather like what we now call momentum. It explained why a heavy millstone is hard to stop once it spins.",
+      "why": "Impetus that doesn't fade on its own is only a short step from inertia.",
+      "box": "limits",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1604,
+      "date": "c. 1604",
+      "era": "newlaw",
+      "art": "ball",
+      "key": true,
+      "title": "Galileo's rolling balls",
+      "who": "Galileo Galilei",
+      "where": "Padua, Italy",
+      "country": "Italy",
+      "text": "Galileo rolled bronze balls down one ramp and up another. The ball climbed back to nearly its starting height, however gentle the second slope. Make the second ramp flat, he reasoned, and the ball would roll on for ever: it is friction that stops it.",
+      "why": "It was the first experiment to show that motion carries on unless something takes it away.",
+      "box": "idea",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1618,
+      "date": "1618–1621",
+      "era": "newlaw",
+      "art": "quill",
+      "key": true,
+      "title": "Kepler names 'inertia'",
+      "who": "Johannes Kepler",
+      "where": "Linz, Austria",
+      "country": "Austria",
+      "text": "In his Epitome of Copernican Astronomy, published in parts from 1618 to 1621, Kepler used the Latin word inertia, 'laziness' or 'idleness', for matter's resistance to being moved. His inertia made things tend to come to rest; the modern meaning came later.",
+      "why": "The idea finally had a name.",
+      "sources": [
+        4,
+        2
+      ]
+    },
+    {
+      "year": 1632,
+      "date": "1632",
+      "era": "newlaw",
+      "art": "boat",
+      "key": false,
+      "title": "A stone dropped on a moving ship",
+      "who": "Galileo Galilei",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "In his Dialogue on the Two Chief World Systems, Galileo argued that a stone dropped from a ship's mast lands at the foot of the mast even while the ship sails on, because the stone keeps the ship's forward motion as it falls.",
+      "why": "It explained why we don't feel the Earth moving: everything shares its motion.",
+      "box": "ride",
+      "sources": [
+        5,
+        2
+      ]
+    },
+    {
+      "year": 1638,
+      "date": "1638",
+      "era": "newlaw",
+      "art": "ball",
+      "key": true,
+      "title": "Two New Sciences: level motion lasts",
+      "who": "Galileo Galilei",
+      "where": "Leiden, Netherlands",
+      "country": "Netherlands",
+      "text": "In his last book, published in Leiden while he was under house arrest, Galileo stated that a body moving on a level surface keeps its speed as long as nothing gets in its way. For him 'level' followed the curve of the Earth, so his inertia was still slightly circular.",
+      "why": "Inertia became a principle of physics, backed by measurement.",
+      "sources": [
+        6,
+        2
+      ]
+    },
+    {
+      "year": 1644,
+      "date": "1644",
+      "era": "newlaw",
+      "art": "compass",
+      "key": false,
+      "title": "Descartes: in a straight line",
+      "who": "René Descartes",
+      "where": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "text": "In his Principles of Philosophy, Descartes set out laws of nature: each thing stays in the same state unless something changes it, and every moving thing tends to go on in a straight line.",
+      "why": "He was the first to make inertia straight, as Newton would.",
+      "sources": [
+        7,
+        2
+      ]
+    },
+    {
+      "year": 1687,
+      "date": "5 July 1687",
+      "era": "newlaw",
+      "art": "apple",
+      "key": true,
+      "title": "Newton's first law, and mass",
+      "who": "Isaac Newton",
+      "where": "London, England",
+      "country": "UK",
+      "text": "Newton's Principia defined 'quantity of matter', our mass, and the 'vis inertiae', the power of every body to resist changes to its motion. His first law says every body stays at rest or in steady straight-line motion unless a force acts, and his second makes mass the measure of that resistance: F = m a.",
+      "why": "Inertia and mass became the foundation of all of mechanics.",
+      "box": "idea",
+      "sources": [
+        8,
+        2
+      ]
+    },
+    {
+      "year": 1765,
+      "date": "1765",
+      "era": "measure",
+      "art": "gear",
+      "key": false,
+      "title": "Euler names the moment of inertia",
+      "who": "Leonhard Euler",
+      "where": "Berlin, Prussia",
+      "country": "Germany",
+      "text": "In his book on the motion of rigid bodies, Euler named the 'moment of inertia', the spinning version of mass, and showed how it governs how bodies turn, wobble and tumble.",
+      "why": "It explained flywheels, spinning tops and skaters.",
+      "box": "spin",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852",
+      "era": "measure",
+      "art": "orbit",
+      "key": false,
+      "title": "Foucault's gyroscope",
+      "who": "Léon Foucault",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Foucault spun a heavy wheel in a set of rings and watched its axis hold its direction in space while the Earth turned underneath. He called it a gyroscope, 'to see the rotation'.",
+      "why": "Rotational inertia became a tool, now used in compasses, ships and spacecraft.",
+      "box": "spin",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "September 1889",
+      "era": "measure",
+      "art": "scales",
+      "key": true,
+      "title": "The kilogram gets a body",
+      "who": "1st General Conference on Weights and Measures",
+      "where": "Sèvres, near Paris, France",
+      "country": "France",
+      "text": "The conference approved the International Prototype of the Kilogram: a cylinder of 90% platinum and 10% iridium, 39 mm high and 39 mm across, kept in a vault near Paris. For 130 years a kilogram was, by definition, its mass.",
+      "why": "Every scale in the world was traceable to one metal cylinder.",
+      "box": "weigh",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "1889–1908",
+      "era": "measure",
+      "art": "pendulum",
+      "key": true,
+      "title": "Eötvös weighs inertia against gravity",
+      "who": "Loránd Eötvös, with Dezső Pekár and Jenő Fekete",
+      "where": "Budapest, Hungary",
+      "country": "Hungary",
+      "text": "With a delicate torsion balance, Eötvös checked whether materials with the same weight also have the same inertia. By 1890 he found no difference to about 5 parts in 100 million; long runs with Pekár and Fekete from 1906 to 1908, published in 1922, pushed that to a few parts in a billion.",
+      "why": "It showed inertial and gravitational mass are the same to astonishing accuracy.",
+      "box": "limits",
+      "sources": [
+        11,
+        23
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "Einstein's happiest thought",
+      "who": "Albert Einstein",
+      "where": "Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "Einstein realised that someone falling freely feels no weight at all. If inertial and gravitational mass are truly equal, gravity and acceleration cannot be told apart. He made this equivalence principle the starting point of general relativity, finished in 1915.",
+      "why": "A coincidence Newton had just accepted became the key to a new theory of gravity.",
+      "box": "limits",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "2 August 1971",
+      "era": "modern",
+      "art": "ball",
+      "key": false,
+      "title": "A hammer and a feather on the Moon",
+      "who": "David Scott, Apollo 15",
+      "where": "Hadley–Apennine, the Moon",
+      "country": "USA",
+      "text": "Standing on the airless Moon, astronaut David Scott dropped a geologist's hammer and a falcon feather together. They hit the ground at the same moment, just as Galileo had said.",
+      "why": "Millions watched gravitational and inertial mass agree live on television.",
+      "box": "limits",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "modern",
+      "art": "orbit",
+      "key": false,
+      "title": "Skylab's wobble chair",
+      "who": "William Thornton's team, NASA",
+      "where": "Skylab, in Earth orbit",
+      "country": "USA",
+      "text": "Scales can't work in orbit, so Skylab's crews sat in a chair on springs and let it wobble. A heavier astronaut swings more slowly: the chair's springs had k = 606 N/m and the empty chair's period was 0.848 s. It measured body mass to about 0.1%.",
+      "why": "It weighed people by their inertia alone.",
+      "box": "weigh",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "modern",
+      "art": "orbit",
+      "key": false,
+      "title": "SLAMMD on the Space Station",
+      "who": "NASA Human Research Facility",
+      "where": "International Space Station",
+      "country": "USA",
+      "text": "During Expedition 11, the Space Linear Acceleration Mass Measurement Device was installed on the ISS. Springs pull the astronaut's guide arm with a known force, a sensor measures the acceleration, and a laptop works out m = F ÷ a, from 43 to 109 kg, to about 0.2 kg.",
+      "why": "Newton's second law became a bathroom scale for space.",
+      "box": "weigh",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "20 May 2019",
+      "era": "modern",
+      "art": "scales",
+      "key": true,
+      "title": "The kilogram is redefined",
+      "who": "General Conference on Weights and Measures",
+      "where": "Versailles and Sèvres, France",
+      "country": "France",
+      "text": "After a vote in November 2018, the kilogram stopped being the mass of a metal cylinder. It is now fixed by the Planck constant, h = 6.626 070 15 × 10⁻³⁴ J·s, and realised with instruments such as the Kibble balance, proposed by Bryan Kibble in 1975.",
+      "why": "Anyone, anywhere, can now make a kilogram from a constant of nature.",
+      "box": "weigh",
+      "sources": [
+        14,
+        15,
+        12
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "14 September 2022",
+      "era": "modern",
+      "art": "orbit",
+      "key": true,
+      "title": "MICROSCOPE: equal to 1 part in 10¹⁵",
+      "who": "CNES, ONERA and partners",
+      "where": "Launched from Kourou, French Guiana",
+      "country": "France",
+      "text": "The MICROSCOPE satellite (2016–2018) kept titanium and platinum test masses floating inside each other as they fell round the Earth. Its final result found no difference in how they fall: η = (−1.5 ± 2.7) × 10⁻¹⁵.",
+      "why": "It is the most precise test yet that inertial and gravitational mass are the same.",
+      "box": "limits",
+      "sources": [
+        19,
+        20
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "The word 'inertia' in physics",
+      "value": "1618–21",
+      "who": "Johannes Kepler, Linz"
+    },
+    {
+      "label": "Inertia as straight-line motion",
+      "value": "1644",
+      "who": "René Descartes, Amsterdam"
+    },
+    {
+      "label": "Mass defined as quantity of matter",
+      "value": "1687",
+      "who": "Isaac Newton, London"
+    },
+    {
+      "label": "International Prototype of the Kilogram",
+      "value": "1889",
+      "who": "1st CGPM, Sèvres"
+    },
+    {
+      "label": "Body mass measured in orbit",
+      "value": "1973",
+      "who": "Skylab, NASA"
+    },
+    {
+      "label": "Kilogram defined by a constant of nature",
+      "value": "2019",
+      "who": "CGPM, via the Planck constant"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "His rule that motion needs a mover lasted nearly two thousand years."
+    },
+    {
+      "name": "John Philoponus",
+      "life": "c. 490 – c. 570",
+      "role": "Philosopher",
+      "from": "Egypt",
+      "note": "First to say the thrower gives the stone an inner force of its own."
+    },
+    {
+      "name": "Jean Buridan",
+      "life": "c. 1301 – c. 1360",
+      "role": "Philosopher",
+      "from": "France",
+      "note": "His impetus, which only resistance destroys, came close to momentum."
+    },
+    {
+      "name": "Galileo Galilei",
+      "life": "1564 – 1642",
+      "role": "Physicist and astronomer",
+      "from": "Italy",
+      "note": "Showed with rolling balls that only friction stops motion."
+    },
+    {
+      "name": "Johannes Kepler",
+      "life": "1571 – 1630",
+      "role": "Astronomer",
+      "from": "Germany",
+      "note": "Gave inertia its name."
+    },
+    {
+      "name": "René Descartes",
+      "life": "1596 – 1650",
+      "role": "Philosopher and mathematician",
+      "from": "France",
+      "note": "First to state that moving things go on in straight lines."
+    },
+    {
+      "name": "Isaac Newton",
+      "life": "1643 – 1727",
+      "role": "Physicist and mathematician",
+      "from": "England",
+      "note": "Made inertia his first law and mass its measure."
+    },
+    {
+      "name": "Leonhard Euler",
+      "life": "1707 – 1783",
+      "role": "Mathematician",
+      "from": "Switzerland",
+      "note": "Named the moment of inertia and worked out how bodies spin."
+    },
+    {
+      "name": "Loránd Eötvös",
+      "life": "1848 – 1919",
+      "role": "Physicist",
+      "from": "Hungary",
+      "note": "Showed inertial and gravitational mass agree to parts per billion."
+    },
+    {
+      "name": "Albert Einstein",
+      "life": "1879 – 1955",
+      "role": "Physicist",
+      "from": "Germany",
+      "note": "Turned the equality of the two masses into general relativity."
+    },
+    {
+      "name": "William Thornton",
+      "life": "1929 – 2021",
+      "role": "Physician and astronaut",
+      "from": "USA",
+      "note": "Led the team that built Skylab's wobble-chair mass meter."
+    }
+  ],
+  "series": [
+    {
+      "id": "eta",
+      "title": "How closely inertial and gravitational mass agree",
+      "unit": "Eötvös ratio η",
+      "log": true,
+      "after": "modern",
+      "caption": "The smallest difference each experiment could have detected in how different materials fall. Lower is better; none has ever found one.",
+      "points": [
+        {
+          "year": 1687,
+          "value": 0.001,
+          "label": "Newton: pendulums of different materials"
+        },
+        {
+          "year": 1832,
+          "value": 2e-05,
+          "label": "Friedrich Bessel: pendulums"
+        },
+        {
+          "year": 1890,
+          "value": 5e-08,
+          "label": "Eötvös: torsion balance"
+        },
+        {
+          "year": 1922,
+          "value": 3e-09,
+          "label": "Eötvös, Pekár and Fekete (runs of 1906–08)"
+        },
+        {
+          "year": 1964,
+          "value": 1e-11,
+          "label": "Roll, Krotkov and Dicke, Princeton"
+        },
+        {
+          "year": 1972,
+          "value": 1e-12,
+          "label": "Braginsky and Panov, Moscow"
+        },
+        {
+          "year": 2008,
+          "value": 2e-13,
+          "label": "Eöt-Wash group, Seattle"
+        },
+        {
+          "year": 2017,
+          "value": 1.3e-14,
+          "label": "MICROSCOPE first result"
+        },
+        {
+          "year": 2022,
+          "value": 2.7e-15,
+          "label": "MICROSCOPE final result"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Kepler's word inertia is Latin for idleness or laziness. He thought matter was lazy about moving; we now know it is just as lazy about stopping.",
+    "The platinum-iridium kilogram was only 39 mm tall. Its official copies drifted by about 50 micrograms over a century, one reason it was retired in 2019.",
+    "Gravity at the International Space Station's height is still about 90% as strong as on the ground. Astronauts float because they and the station are falling round the Earth together.",
+    "MICROSCOPE's 1 part in 10¹⁵ is like weighing a 100,000 tonne ship and noticing an eyelash.",
+    "The fastest recorded figure-skating spin is about 308 rpm, over 5 turns a second, all from pulling the arms in."
+  ],
+  "sources": [
+    {
+      "title": "Aristotle's Natural Philosophy",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/aristotle-natphil/"
+    },
+    {
+      "title": "John Philoponus",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/philoponus/"
+    },
+    {
+      "title": "Inertia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inertia"
+    },
+    {
+      "title": "Theory of impetus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theory_of_impetus"
+    },
+    {
+      "title": "Epitome Astronomiae Copernicanae",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epitome_Astronomiae_Copernicanae"
+    },
+    {
+      "title": "Galileo Galilei",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Galileo-Galilei"
+    },
+    {
+      "title": "Two New Sciences",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Two_New_Sciences"
+    },
+    {
+      "title": "Descartes' Physics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/descartes-physics/"
+    },
+    {
+      "title": "Newton's laws of motion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
+    },
+    {
+      "title": "Moment of inertia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moment_of_inertia"
+    },
+    {
+      "title": "Gyroscope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gyroscope"
+    },
+    {
+      "title": "Eötvös experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_experiment"
+    },
+    {
+      "title": "The kilogram",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/si-base-units/kilogram"
+    },
+    {
+      "title": "International Prototype of the Kilogram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
+    },
+    {
+      "title": "2019 revision of the SI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_revision_of_the_SI"
+    },
+    {
+      "title": "Kilogram: the Kibble balance",
+      "publisher": "NIST",
+      "url": "https://www.nist.gov/si-redefinition/kilogram-kibble-balance"
+    },
+    {
+      "title": "Equivalence principle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Equivalence_principle"
+    },
+    {
+      "title": "Measurement Device, Body Mass, Skylab",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/measurement-device-body-mass-skylab/nasm_A19790409000"
+    },
+    {
+      "title": "Human Research Facility 1 (SLAMMD)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_Research_Facility_1"
+    },
+    {
+      "title": "MICROSCOPE Mission: Final Results of the Test of the Equivalence Principle",
+      "publisher": "Physical Review Letters 129, 121102 (2022)",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.129.121102"
+    },
+    {
+      "title": "The Confrontation between General Relativity and Experiment (C. M. Will)",
+      "publisher": "Living Reviews in Relativity, 2014",
+      "url": "https://link.springer.com/article/10.12942/lrr-2014-4"
+    },
+    {
+      "title": "Apollo 15 Hammer-Feather Drop",
+      "publisher": "NASA Space Science Data Coordinated Archive",
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html"
+    },
+    {
+      "title": "Avicenna",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avicenna"
+    },
+    {
+      "title": "Loránd Eötvös",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s"
+    }
+  ]
+}
